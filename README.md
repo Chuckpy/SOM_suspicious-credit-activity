@@ -20,7 +20,11 @@ python3 credito.py
 
 Se o projeto fez tudo corretamente, ele deve apresentar uma lista de suspeitos de maneira espaçada, porém é importante que você analise todos os dados que não consigo expor no terminal. Pra isso veja o código e rode dentro de uma ide pronta pra isso, como o Jupyter ou Spyder.
 
-![MiniSOM image](/minisom.png)
+## Último mapa feito pelo código
+
+![MiniSOM image](./.github/minisom.png)
+
+Os nós que mais se aproximam do limite de 1 se agrupam aos que estão no mesmo limite, assim como os que tendem a 0. Assim se separam os nós, e se identificam os usuários mais suspeitos
 
 ## Requisitos
 
